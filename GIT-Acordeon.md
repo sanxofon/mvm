@@ -6,14 +6,15 @@
 
 `git init`
 
-### Archivos de ensayo
-`git add file1.js` # **Etapas de un solo archivo**
+### Preparación (stage) de archivos
 
-`git add file1.js file2.js` # **Etapas múltiples archivos**
+`git add file1.js` # **Stage (preparar) un solo archivo**
 
-`git add *.js` # **Etapas con un patrón**
+`git add file1.js file2.js` # **Stage múltiples archivos**
 
-`git add .` # **Prepara el directorio actual y todo su contenido**
+`git add *.js` # **Stage con un patrón**
+
+`git add .` # **Stage el directorio actual y todo su contenido**
 
 ### Ver el estado
 
@@ -21,7 +22,7 @@
 
 `git status -s` # **Estado corto**
 
-### commiting los archivos preparados
+### Commiting los archivos staged
 
 `git commit -m "Message"` # **commits con un mensaje de una línea**
 
