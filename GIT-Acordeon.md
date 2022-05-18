@@ -16,27 +16,27 @@
 
 `git add .` # **Stage el directorio actual y todo su contenido**
 
-### Ver el estado
+### Ver el estado (status)
 
-`git status` # **Estado completo (status)**
+`git status` # **Estado completo**
 
 `git status -s` # **Estado corto**
 
-### Commiting los archivos staged
+### Commiting los archivos preparados (staged)
 
-`git commit -m "Message"` # **commits con un mensaje de una línea**
+`git commit -m "Mensaje de una línea"` # **commits con un "Mensaje de una línea"**
 
 `git commit` # **Abre el editor predeterminado para escribir un mensaje largo**
 
-### Saltarse el área de preparación
+### Saltarse el área de preparación (stage area)
 
 `git commit -am "Message"`
 
 ### Eliminando archivos
 
-`git rm file1.js` # **Elimina del directorio de trabajo y del área de ensayo**
+`git rm file1.js` # **Elimina del directorio de trabajo y del stage area**
 
-`git rm --cached file1.js` # **Elimina solo del área de preparación**
+`git rm --cached file1.js` # **Elimina solo del stage area**
 
 ### Cambiar el nombre o mover archivos
 
@@ -44,9 +44,9 @@
 
 ### Ver los cambios preparados/no preparados
 
-`git diff` # **Muestra cambios no preparados**
+`git diff` # **Muestra cambios no staged**
 
-`git diff --staged` # **Muestra los cambios por etapas**
+`git diff --staged` # **Muestra los cambios staged**
 
 `git diff --cached` # **Igual que el anterior**
 
@@ -106,11 +106,11 @@
 
 `git log --grep="GUI"` # **commits con "GUI" en su mensaje**
 
-`git log -S"GUI"` # **commits con "GUI" en sus parches**
+`git log -S"GUI"` # **commits con "GUI" en sus patches**
 
 `git log hash1..hash2` # **Rango de commits**
 
-`git log file.txt` # **commits que tocaron file.txt**
+`git log file.txt` # **Commits que tocaron file.txt**
 
 ### Formateo de la salida del registro
 
