@@ -4,4 +4,4 @@ Este museo pretende albergar distintas web-apps dispuestas en distintas salas, c
 
 Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
-[/museomates/salas](https://sanxofon.github.io/museomates/salas/)
+[/museomates/salas](https://sanxofon.github.io/museomates/salas/){:target="_blank"}
