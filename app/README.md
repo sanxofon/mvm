@@ -1,6 +1,16 @@
 # Plantilla vacía para crear una Web App
 **Versión 0.5** - *2022-06-03*
 
+## Descripción general
+
+Este template *Progressive Web App* (**PWA**)
+
+- mplementa un **manifest.json** (`manifest.php`) y un **serviceWorker.js** (`sw.php`) listo para registrar una **PWA** en `Chrome` y otros navegadores.
+- Implementa el chequeo inicial del servicio de **localStorage**.
+- Define estilos básicos responsivos (ver más abajo) en *HTML5* y *CSS3*.
+- Define una larga lista de **cabeceras** y *meta-tags* necesarias no sólo para el protocolo **PWA** sino también para poder **compartir** correctamente la app en las *redes sociales* más importantes.
+- Utiliza **W3.css** como ejemplo simple de implementación de una *framework* pero el template es independiente de esta o cualquier *framework* **CSS** o **JavaScript**
+
 ## Estilos y CSS
 
 El presente template viene con varias imágenes de ejemplo que tienen las dimensiones adecuadas para mostrarse adecuadamente en los distintos dispositivos.
