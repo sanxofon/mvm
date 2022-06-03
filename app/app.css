@@ -1,0 +1,16 @@
+/* Note: W3 CSS Dependency */
+/* Links */
+a, a:focus, a:hover { color: #fff; }
+/*a { text-decoration: none; }*/
+/* Base structure */
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: #333;
+}
+body {
+  color: #fff;
+  /*text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);*/
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
