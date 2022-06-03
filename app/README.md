@@ -6,10 +6,10 @@
 Este template *Progressive Web App* (**PWA**)
 
 - Implementa un **manifest.json** (`manifest.php`) y un **serviceWorker.js** (`sw.php`) listo para registrar una **PWA** en `Chrome` y otros navegadores.
-- Implementa el chequeo inicial del servicio de **localStorage**.
-- Define estilos básicos responsivos (ver más abajo) en *HTML5* y *CSS3*.
-- Define una larga lista de **cabeceras** y *meta-tags* necesarias no sólo para el protocolo **PWA** sino también para poder **compartir** correctamente la app en las *redes sociales* más importantes.
+- Implementa el chequeo inicial del servicio de **localStorage** y lo deja listo para usar.
+- Define estilos básicos responsivos (ver más abajo) en *HTML5* y *CSS3* sin complicar las cosas.
 - Utiliza **W3.css** como ejemplo simple de implementación de una *framework* pero el template es independiente de esta o cualquier *framework* **CSS** o **JavaScript**
+- Define una larga lista de **cabeceras** y *meta-tags* necesarias no sólo para el protocolo **PWA** sino también para poder **compartir** correctamente la app en las *redes sociales* más importantes dejando la *app* lista para usar.
 
 ![Screen Shot Mobile](img/screenshot2.png)
 
