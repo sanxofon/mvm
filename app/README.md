@@ -1,7 +1,22 @@
 # Plantilla vacía para crear una Web App
-**Versión 0**
+**Versión 0.5** - *2022-06-03*
 
-## Se pueden editar los archivos:
+## Estilos y CSS
+
+El presente template viene con varias imágenes de ejemplo que tienen las dimensiones adecuadas para mostrarse adecuadamente en los distintos dispositivos.
+Los archivos de imagen en distintas dimensiones requeridos para este template están en la carpeta **[img/](img/)**.
+
+### w3.css & font-awesome.min.css
+
+El template usa por defecto una plantilla CSS muy simple pero útil creada por [W3Schools](https://www.w3schools.com/w3css/defaulT.asp) que permite dar formatos y estilos estándar a la app. 
+Esta plantilla (no llega a ser una framework) utiliza una versión abierta de *FontAwesome* para darnos muchos íconos que podemos usar [como dice acá](https://www.w3schools.com/w3css/w3css_icons.asp).
+Las fonts de estos íconos están en la carpeta **[fonts/](fonts/)**.
+
+### app.css
+
+Los estilos de la app se pueden poner en este archivo.
+
+## Descripción de los archivos PHP que conforman este template:
 
 ### appConfig.php
 
@@ -17,7 +32,7 @@ Este archivo contiene los metadatos técnicamente indispensables para una Progre
     $app_description = "Máxima compatibilidad con los nuevos dispositivos inteligentes Android"; // Descripción general de la app.
     $app_server = "//localhost";                   // Servidor donde la app está alojada (DNS ó IP)
     $app_path = "/app/";                           // Ruta a la app desde la raíz del servidor (debe empezar y terminar en "/")
-    
+
 ### appHeader.php
 
 Cabecera de la app. No necesita demasiadas modificaciones excepto que acá se deben incluír las librerías javascript y recursos css que se requieran en la app.
@@ -37,18 +52,3 @@ Se trata de un archivo indispensable para el protocolo de PWA. El template se en
 ### sw.php
 
 Este es el *service worker* de la app. Toda web app que se precie necesitará eventualmente un *service worker*. Esto permite, entre otras cosas navegar ráidamente usando caché, acceso offline, notificaciones push y más.
-
-## Estilos y CSS
-
-El presente template viene con varias imágenes de ejemplo que tienen las dimensiones adecuadas para mostrarse adecuadamente en los distintos dispositivos.
-Los archivos de imagen en distintas dimensiones requeridos para este template están en la carpeta **[img/](img/)**.
-
-### w3.css & font-awesome.min.css
-
-El template usa por defecto una plantilla CSS muy simple pero útil creada por [W3Schools](https://www.w3schools.com/w3css/defaulT.asp) que permite dar formatos y estilos estándar a la app. 
-Esta plantilla (no llega a ser una framework) utiliza una versión abierta de *FontAwesome* para darnos muchos íconos que podemos usar [como dice acá](https://www.w3schools.com/w3css/w3css_icons.asp).
-Las fonts de estos íconos están en la carpeta **[fonts/](fonts/)**.
-
-### app.css
-
-Los estilos de la app se pueden poner en este archivo.
