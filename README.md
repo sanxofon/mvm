@@ -5,3 +5,7 @@ Este museo pretende albergar distintas web-apps dispuestas en distintas salas, c
 Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 [/museomates/salas](https://sanxofon.github.io/museomates/salas/)
+
+El template de Progressive We App (vacío) se puede ver en la carpeta **app/**:
+
+[/museomates/app](https://sanxofon.github.io/museomates/app/)
