@@ -6,6 +6,6 @@ Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 [/museomates/salas](https://sanxofon.github.io/museomates/salas/)
 
-El template de Progressive We App (vacío) se puede ver en la carpeta **app/**:
+El template de Progressive We App (vacío) se puede descargar desde la carpeta **app/**:
 
-[/museomates/app](https://sanxofon.github.io/museomates/app/)
+[/museomates/app](https://github.com/sanxofon/museomates/app/)
