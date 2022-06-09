@@ -65,8 +65,10 @@ Hay dos tipos de proyección posibles para generar las imágenes o los esquemas 
 
 Esta forma ocupa toda la extensión de la imagen para guardar pixeles. Es contínuo y muestra las rectas como curvas.
 
-
+![Máquina - Equirectangular](er/maquina-9000x4500.jpg)
 
 ### Las 6 caras de un cubo
 
 Se trata de 6 imágenes cuadradas. Cada una de ellas es la vista plana en una dirección. Arriba, abajo, izquierda, derecha, atrás y adelante. Cada imagen el plana y rectilíne pero los ángulos cambian de cara a cara del cubo.
+
+![Máquina - 6 Caras del cubo](er/maquina-cubo-lowres.jpg)
