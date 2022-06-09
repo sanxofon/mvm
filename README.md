@@ -16,7 +16,7 @@ El template de Progressive We App (vacío) se puede descargar desde la carpeta:
 
 - **[app/](./app/)**.
 
-## Resolusión de las imágenes de fondo para las salas 360
+## Resolución de las imágenes de fondo para las salas 360
 
 Todas las imágenes equirectangulares tienen la proporción 2x1. Las imágenes deben tener un tamaño del doble de ancho que de alto.
 
@@ -24,7 +24,7 @@ El despliegue 360 de las imágenes equirectangulares utiliza un proceso de visua
 
 La imagen se recorta en varios cuadraditos y depende del tamaño de la imagen en cuántos cuadraditos de 512x512 se puede llegar a cortar.
 
-Si la imagen tiene suficiente resolusión se pueden crear más niveles de profundidad de 1 hasta 4 lo cual permite al usuario acercarce más a la imagen haciendo zoom.
+Si la imagen tiene suficiente resolución se pueden crear más niveles de profundidad de 1 hasta 4 lo cual permite al usuario acercarce más a la imagen haciendo zoom.
 
 - El nivel 1 genera 6 mosaicos siendo cada uno de ellos un lado del cubo interior.
 
@@ -34,7 +34,7 @@ Si la imagen tiene suficiente resolusión se pueden crear más niveles de profun
 
 - Por último, el nivel 4 de zoom genera 384 mosaicos, con 64 mosaicos por cara.
 
-Subí unos ejemplos de diferencias de resolusión con imágenes de internet de más a menos resolusión.
+Subí unos ejemplos de diferencias de resolución con imágenes de internet de más a menos resolución.
 
 **4 Niveles**
 
