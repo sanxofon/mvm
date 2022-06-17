@@ -1,4 +1,9 @@
-# Museo de matemáticas en línea
+:icons: font
+:numbered:
+:title: Museo Virtual de Matemáticas
+ifdef::env-github[:outfilesuffix: .adoc]
+
+# Museo Virtual de Matemáticas
 :toc:
 :toclevels: 2
 :toc-title: CONTENIDO:
