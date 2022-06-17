@@ -75,3 +75,14 @@ image::er/maquina-9000x4500.jpg[Máquina - Equirectangular]
 Se trata de 6 imágenes cuadradas. Cada una de ellas es la vista plana en una dirección. Arriba, abajo, izquierda, derecha, atrás y adelante. Cada imagen el plana y rectilíne pero los ángulos cambian de cara a cara del cubo.
 
 image::er/maquina-cubo-lowres.jpg[Máquina - 6 Caras del cubo]
+
+## Algunas propuestas de fondos
+
+La propuesta se puede link:Propuestas_junio_MVM.md[ver acá] y algunas de las ideas más interesantes fueron:
+
+. El interior de un objeto pequeño
+. La línea del horizonte en el agua
+. Insectos
+. Una cocina / laboratorio
+. Cabina de piloto
+. Escaleras esherianas

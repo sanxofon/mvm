@@ -22,7 +22,7 @@
 <img src="https://image.shutterstock.com/image-vector/black-widow-spiders-nest-3d-260nw-1336252313.jpg" width="200">
 <img src="https://assets.bigcartel.com/product_images/262314488/76F7F793-5558-4971-ACC5-86DDC46E210A.jpeg?auto=format&fit=max&w=1200" width="200">
 
-* **Una cocina**. Parece perfecto para llenarlo de cosas "surrealistas".
+* **Una cocina / laboratorio**. Parece perfecto para llenarlo de cosas "surrealistas".
   
 <img src="https://3.bp.blogspot.com/-LBJUpEarTFM/WpsIkHQDflI/AAAAAAAAEGQ/EwRDzeGUVzsHzmucm6CMHhzrq4IfnCtXQCEwYBhgL/s1600/20171228-SLP%2BDad%2527s%2Bkitchen.JPG" width="200">
 <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/cabin-kitchen-sarah-hamilton.jpg" width="200">
