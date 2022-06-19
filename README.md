@@ -16,7 +16,7 @@ El template de Progressive We App (vacío) se puede descargar desde la carpeta:
 
 Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
-- **[salas/](salas/)**
+- **[salas/](https://sanxofon.github.io/mvm/salas/)**
 
 ### Resolución de las imágenes de fondo para las salas 360
 
