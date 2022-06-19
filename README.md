@@ -2,7 +2,7 @@
 
 [![General badge](https://img.shields.io/badge/VER_EN-GITHUB_PAGES-<COLOR>.svg)](https://sanxofon.github.io/mvm/)
 
-[![](https://komarev.com/ghpvc/?username=sanxofon&color=orange)](https://sanxofon.github.io/mvm/)
+[![Vistas](https://komarev.com/ghpvc/?username=sanxofon&color=orange)](https://sanxofon.github.io/mvm/)
 
 Este museo pretende albergar distintas web-apps dispuestas en distintas salas, con curaduría, interactividad y la posibilidad de profundizar más con artículos en "blocks de notas" interactivos y editables. Las salas del museo serán temáticas, por orientación etérea, etc. y contendrán 5 apps cada una. El formato de las salas será de navegación 360° en base a fondos equirectangulares dibujados a mano sobre guías de estructuras creadas como objetos 3D en ordenador.
 
