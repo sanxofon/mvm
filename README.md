@@ -2,8 +2,6 @@
 
 [![General badge](https://img.shields.io/badge/VER_EN-GITHUB_PAGES-<COLOR>.svg)](https://sanxofon.github.io/mvm/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanxofon%2Fmvm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://sanxofon.github.io/mvm/)
-
 Este museo pretende albergar distintas web-apps dispuestas en distintas salas, con curaduría, interactividad y la posibilidad de profundizar más con artículos en "blocks de notas" interactivos y editables. Las salas del museo serán temáticas, por orientación etérea, etc. y contendrán 5 apps cada una. El formato de las salas será de navegación 360° en base a fondos equirectangulares dibujados a mano sobre guías de estructuras creadas como objetos 3D en ordenador.
 
 ## Plantilla vacía para crear una Web App
@@ -77,6 +75,9 @@ Se trata de 6 imágenes cuadradas. Cada una de ellas es la vista plana en una di
 
 ![Máquina - 6 Caras del cubo](er/maquina-cubo-lowres.jpg)
 
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanxofon%2Fmvm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://sanxofon.github.io/mvm/)
 ### Algunas propuestas de fondos
 
 La propuesta se puede [ver acá](docs/Propuestas_junio_MVM.md) y algunas de las ideas más interesantes fueron:
