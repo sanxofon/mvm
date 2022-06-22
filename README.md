@@ -16,7 +16,7 @@ El template de Progressive We App (vacío) se puede descargar desde la carpeta:
 
 Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
-- **[salas/](salas/)**
+- **[salas/](https://sanxofon.github.io/mvm/salas/)**
 
 ### Resolución de las imágenes de fondo para las salas 360
 
@@ -74,10 +74,9 @@ Esta forma ocupa toda la extensión de la imagen para guardar pixeles. Es contí
 Se trata de 6 imágenes cuadradas. Cada una de ellas es la vista plana en una dirección. Arriba, abajo, izquierda, derecha, atrás y adelante. Cada imagen el plana y rectilíne pero los ángulos cambian de cara a cara del cubo.
 
 ![Máquina - 6 Caras del cubo](er/maquina-cubo-lowres.jpg)
-
 ### Algunas propuestas de fondos
 
-La propuesta se puede [ver acá](docs/Propuestas_junio_MVM.md) y algunas de las ideas más interesantes fueron:
+La propuesta se puede [ver acá](https://github.com/sanxofon/mvm/blob/master/docs/Propuestas_junio_MVM.adoc) y algunas de las ideas más interesantes fueron:
 
 . El interior de un objeto pequeño
 . La línea del horizonte en el agua
@@ -91,3 +90,7 @@ La propuesta se puede [ver acá](docs/Propuestas_junio_MVM.md) y algunas de las 
 Usar recuadros de imágenes como en el ejemplo (como idea, no el estilo):
 
 ![Here](er/here_2151.webp)
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsanxofon%2Fmvm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)](https://sanxofon.github.io/mvm/)
