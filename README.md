@@ -76,7 +76,7 @@ Se trata de 6 imágenes cuadradas. Cada una de ellas es la vista plana en una di
 ![Máquina - 6 Caras del cubo](er/maquina-cubo-lowres.jpg)
 ### Algunas propuestas de fondos
 
-La propuesta se puede [ver acá](docs/Propuestas_junio_MVM.md) y algunas de las ideas más interesantes fueron:
+La propuesta se puede [ver acá]([docs/Propuestas_junio_MVM.md](https://github.com/sanxofon/mvm/blob/master/docs/Propuestas_junio_MVM.adoc)) y algunas de las ideas más interesantes fueron:
 
 . El interior de un objeto pequeño
 . La línea del horizonte en el agua
