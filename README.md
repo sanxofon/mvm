@@ -57,7 +57,7 @@ Subí unos ejemplos de diferencias de resolución con imágenes de internet de m
 
 Se pueden ver varios barcos en 3D en el siguiente enlace:
 
-- **[salas/](https://sanxofon.github.io/mvm/salas/barcos/)**
+- **[salas/barcos/](https://sanxofon.github.io/mvm/salas/barcos/)**
 
 Las imágenes originales equirectangulares se pueden [ver acá](https://github.com/sanxofon/mvm/er/).
   
