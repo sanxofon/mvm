@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Barcos 3D</title>
+<meta charset="utf-8">
+<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<style> @-ms-viewport { width: device-width; } </style>
+<link rel="stylesheet" href="../vendor/reset.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="multiple-scenes ">
+
+<div id="pano"></div>
+
+<div id="sceneList">
+  <ul class="scenes">
+    
+      <a href="javascript:void(0)" class="scene" data-id="0-perlanegra_03">
+        <li class="text">perlanegra_03</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="1-barco1">
+        <li class="text">barco1</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="2-barco2">
+        <li class="text">barco2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="3-barco3">
+        <li class="text">barco3</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="4-perlanegra_01">
+        <li class="text">perlanegra_01</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="5-perlanegra_02">
+        <li class="text">perlanegra_02</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="6-perlanegra_03_alpha">
+        <li class="text">perlanegra_03_alpha</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="7-perlanegra_03_highligths">
+        <li class="text">perlanegra_03_highligths</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="8-perlanegra_04">
+        <li class="text">perlanegra_04</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="9-perlanegra_05">
+        <li class="text">perlanegra_05</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="10-perlanegra_alpha_velas_06">
+        <li class="text">perlanegra_alpha_velas_06</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="11-romano_01">
+        <li class="text">romano_01</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="12-santamaria_8bit_2">
+        <li class="text">santaMaria_8bit_2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="13-santamaria_256col_2">
+        <li class="text">santaMaria_256col_2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="14-santamaria_256col_3">
+        <li class="text">santaMaria_256col_3</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="15-santamaria1">
+        <li class="text">santaMaria1</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="16-santamaria2">
+        <li class="text">santaMaria2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="17-smaria_std_01">
+        <li class="text">SMaria_std_01</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="18-smaria_std_02">
+        <li class="text">SMaria_std_02</li>
+      </a>
+    
+  </ul>
+</div>
+
+<div id="titleBar">
+  <h1 class="sceneName"></h1>
+</div>
+
+<a href="javascript:void(0)" id="autorotateToggle">
+  <img class="icon off" src="../img/play.png">
+  <img class="icon on" src="../img/pause.png">
+</a>
+
+<a href="javascript:void(0)" id="fullscreenToggle">
+  <img class="icon off" src="../img/fullscreen.png">
+  <img class="icon on" src="../img/windowed.png">
+</a>
+
+<a href="javascript:void(0)" id="sceneListToggle">
+  <img class="icon off" src="../img/expand.png">
+  <img class="icon on" src="../img/collapse.png">
+</a>
+
+<a href="javascript:void(0)" id="viewUp" class="viewControlButton viewControlButton-1">
+  <img class="icon" src="../img/up.png">
+</a>
+<a href="javascript:void(0)" id="viewDown" class="viewControlButton viewControlButton-2">
+  <img class="icon" src="../img/down.png">
+</a>
+<a href="javascript:void(0)" id="viewLeft" class="viewControlButton viewControlButton-3">
+  <img class="icon" src="../img/left.png">
+</a>
+<a href="javascript:void(0)" id="viewRight" class="viewControlButton viewControlButton-4">
+  <img class="icon" src="../img/right.png">
+</a>
+<a href="javascript:void(0)" id="viewIn" class="viewControlButton viewControlButton-5">
+  <img class="icon" src="../img/plus.png">
+</a>
+<a href="javascript:void(0)" id="viewOut" class="viewControlButton viewControlButton-6">
+  <img class="icon" src="../img/minus.png">
+</a>
+
+<script src="../vendor/screenfull.min.js" ></script>
+<script src="../vendor/bowser.min.js" ></script>
+<script src="../vendor/marzipano.js" ></script>
+
+<script src="data.js"></script>
+<script src="index.js"></script>
+
+</body>
+</html>
