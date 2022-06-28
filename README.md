@@ -59,7 +59,9 @@ Se pueden ver varios barcos en 3D en el siguiente enlace:
 
 - **[salas/barcos/](https://sanxofon.github.io/mvm/salas/barcos/)**
 
-Las imágenes originales equirectangulares se pueden [ver acá](https://github.com/sanxofon/mvm/tree/master/er/barcos).
+Las imágenes originales equirectangulares se pueden ver acá:
+
+- [er/barcos](https://github.com/sanxofon/mvm/tree/master/er/barcos)
   
 ### Tipos de proyección posibles para generar esquemas
 
