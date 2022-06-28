@@ -10,13 +10,19 @@ Este museo pretende albergar distintas web-apps dispuestas en distintas salas, c
 
 El template de Progressive We App (vacío) se puede descargar desde la carpeta:
 
-- **[app/](app/)**.
+- **[app/](app/)**
 
 ## Salas 3D
 
 Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 - **[salas/](https://sanxofon.github.io/mvm/salas/)**
+
+## Previsualizador de imágenes equirectangulares 3D
+
+En el siguiente enlace se pueden probar imágenes en formato 2:1 equirectangulares. Basta con *arrastrar* una imagen desde nuestra compu a la ventana del navegador para verla en 3D.
+
+- **[erviewer/](https://sanxofon.github.io/mvm/erviewer/)**
 
 ### Resolución de las imágenes de fondo para las salas 360
 
