@@ -18,12 +18,6 @@ Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 - **[salas/](https://sanxofon.github.io/mvm/salas/)**
 
-### Barcos 3D
-
-Se pueden ver varios barcos en 3D en el siguiente enlace:
-
-- **[salas/](https://sanxofon.github.io/mvm/salas/barcos/)**
-
 ### Resolución de las imágenes de fondo para las salas 360
 
 Todas las imágenes equirectangulares tienen la proporción 2x1. Las imágenes deben tener un tamaño del doble de ancho que de alto.
@@ -58,6 +52,15 @@ Subí unos ejemplos de diferencias de resolución con imágenes de internet de m
   2. esferas-1600x800 [Ver 360](salas/#7-esferas-1600x800) / [Ver imagen original](er/esferas-1600x800.jpg)
   3. penta-1600x800 [Ver 360](salas/#8-penta-1600x800) / [Ver imagen original](er/penta-1600x800.jpg)
 
+
+### Barcos 3D
+
+Se pueden ver varios barcos en 3D en el siguiente enlace:
+
+- **[salas/](https://sanxofon.github.io/mvm/salas/barcos/)**
+
+Las imágenes originales equirectangulares se pueden [ver acá](https://github.com/sanxofon/mvm/er/).
+  
 ### Tipos de proyección posibles para generar esquemas
 
 Hay dos tipos de proyección posibles para generar las imágenes o los esquemas 3D.
