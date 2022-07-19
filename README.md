@@ -18,6 +18,15 @@ Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 - **[salas/](https://sanxofon.github.io/mvm/salas/)**
 
+### Cocina / Laboratorio
+
+- **[salas/cocina](https://sanxofon.github.io/mvm/salas/#0-cocina-lab-9000x4500)**
+
+
+### Máquina / Cabina de piloto
+
+- **[salas/maquina](https://sanxofon.github.io/mvm/salas/#1-maquina-dibujo)**
+
 ## Previsualizador de imágenes equirectangulares 3D
 
 En el siguiente enlace se pueden probar imágenes en formato 2:1 equirectangulares. Basta con *arrastrar* una imagen desde nuestra compu a la ventana del navegador para verla en 3D.

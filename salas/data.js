@@ -32,8 +32,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-maquina-9000x4500",
-      "name": "Maquina-9000x4500",
+      "id": "1-maquina-dibujo",
+      "name": "maquina-dibujo",
       "levels": [
         {
           "tileSize": 256,
@@ -136,8 +136,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "9-maquina-dibujo",
-      "name": "maquina-dibujo",
+      "id": "9-maquina-9000x4500",
+      "name": "Maquina-9000x4500",
       "levels": [
         {
           "tileSize": 256,
