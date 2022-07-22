@@ -27,6 +27,10 @@ Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 - **[salas/maquina](https://sanxofon.github.io/mvm/salas/#1-maquina-dibujo)**
 
+### Hormiguero sideral / Moebius
+
+- **[salas/moebius](https://sanxofon.github.io/mvm/salas/#2-hormiguero-sideral)**
+
 ## Previsualizador de imágenes equirectangulares 3D
 
 En el siguiente enlace se pueden probar imágenes en formato 2:1 equirectangulares. Basta con *arrastrar* una imagen desde nuestra compu a la ventana del navegador para verla en 3D.

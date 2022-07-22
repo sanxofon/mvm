@@ -28,6 +28,11 @@ html, body {
   color: #fff;
 }
 
+.oculto {
+  background-color: red;
+  display: none!important;
+}
+
 a, a:hover, a:active, a:visited {
   text-decoration: none;
   color: inherit;
