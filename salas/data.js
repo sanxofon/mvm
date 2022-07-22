@@ -63,6 +63,37 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
+      "id": "2-hormiguero-sideral",
+      "name": "hormiguero-sideral",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
       "id": "5-gato-3000x1500",
       "name": "gato-3000x1500",
       "levels": [
@@ -167,38 +198,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "10-maquina-ejemplo",
-      "name": "maquina-ejemplo",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "11-zk01",
+      "id": "10-zk01",
       "name": "zk01",
       "levels": [
         {
@@ -229,7 +229,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "12-hepta",
+      "id": "11-hepta",
       "name": "hepta",
       "levels": [
         {
@@ -260,7 +260,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "13-hepta2",
+      "id": "12-hepta2",
       "name": "hepta2",
       "levels": [
         {
@@ -291,7 +291,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "14-mhepta",
+      "id": "13-mhepta",
       "name": "mhepta",
       "levels": [
         {
@@ -322,7 +322,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "15-orilla_last",
+      "id": "14-orilla_last",
       "name": "orilla_last",
       "levels": [
         {
@@ -353,7 +353,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "16-otro",
+      "id": "15-otro",
       "name": "otro",
       "levels": [
         {
@@ -384,7 +384,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "17-hormigueropng",
+      "id": "16-hormigueropng",
       "name": "hormiguero.png",
       "levels": [
         {
@@ -415,7 +415,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "18-ultimocorriendo",
+      "id": "17-ultimocorriendo",
       "name": "ultimoCorriendo",
       "levels": [
         {
@@ -446,7 +446,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "19-entradatunel",
+      "id": "18-entradatunel",
       "name": "entradaTunel",
       "levels": [
         {
@@ -477,7 +477,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "20-manifold_01",
+      "id": "19-manifold_01",
       "name": "manifold_01",
       "levels": [
         {
@@ -508,7 +508,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "21-manifold_camara02",
+      "id": "20-manifold_camara02",
       "name": "manifold_camara02",
       "levels": [
         {
@@ -539,7 +539,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "22-manifold",
+      "id": "21-manifold",
       "name": "manifold",
       "levels": [
         {
@@ -570,7 +570,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "23-moebiussolar",
+      "id": "22-moebiussolar",
       "name": "moebiusSolar",
       "levels": [
         {
@@ -601,7 +601,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "24-barcosymas",
+      "id": "23-barcosymas",
       "name": "barcosymas",
       "levels": [
         {
@@ -632,7 +632,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "25-telescopios-observatorio-chile",
+      "id": "24-telescopios-observatorio-chile",
       "name": "telescopios-observatorio-Chile",
       "levels": [
         {
@@ -655,7 +655,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "26-earth-map",
+      "id": "25-earth-map",
       "name": "earth-map",
       "levels": [
         {
@@ -678,7 +678,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "27-earth-map-4424x2212",
+      "id": "26-earth-map-4424x2212",
       "name": "earth-map-4424x2212",
       "levels": [
         {
@@ -705,7 +705,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "28-ship2_1920x1080",
+      "id": "27-ship2_1920x1080",
       "name": "ship2_1920x1080",
       "levels": [
         {
@@ -728,7 +728,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "29-ship1_1920x1080",
+      "id": "28-ship1_1920x1080",
       "name": "ship1_1920x1080",
       "levels": [
         {
@@ -751,7 +751,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "30-ship3_1920x1080",
+      "id": "29-ship3_1920x1080",
       "name": "ship3_1920x1080",
       "levels": [
         {
