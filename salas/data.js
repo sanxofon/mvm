@@ -94,8 +94,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-hormiguero-sideral-02",
-      "name": "hormiguero-sideral-02",
+      "id": "4-mezcla_cam",
+      "name": "mezcla_cam",
       "levels": [
         {
           "tileSize": 256,

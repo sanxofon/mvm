@@ -29,8 +29,8 @@ Se puede ver una demostración de las salas 3D en el siguiente enlace:
 
 ### Hormiguero sideral / Moebius
 
-- **[salas/moebius](https://sanxofon.github.io/mvm/salas/#2-hormiguero-sideral)**
-- **[salas/moebius](https://sanxofon.github.io/mvm/salas/#3-hormiguero-sideral-02)**
+- **[salas/hormiguero](https://sanxofon.github.io/mvm/salas/#3-hormiguero-sideral-02)**
+- **[salas/mezcla_cam](https://sanxofon.github.io/mvm/salas/#4-mezcla_cam)**
 
 ## Previsualizador de imágenes equirectangulares 3D
 
