@@ -14,23 +14,11 @@ El template de Progressive We App (vacío) se puede descargar desde la carpeta:
 
 ## Salas 3D
 
-Se puede ver una demostración de las salas 3D en el siguiente enlace:
+Se puede ver una demostración de las salas 3D (en su estado actual) en el siguiente enlace:
 
-- **[salas/](https://sanxofon.github.io/mvm/salas/)**
+- **[SALAS/](https://sanxofon.github.io/mvm/salas/)**
 
-### Cocina / Laboratorio
-
-- **[salas/cocina](https://sanxofon.github.io/mvm/salas/#0-cocina-lab-9000x4500)**
-
-
-### Máquina / Cabina de piloto
-
-- **[salas/maquina](https://sanxofon.github.io/mvm/salas/#1-maquina-dibujo)**
-
-### Hormiguero sideral / Moebius
-
-- **[salas/hormiguero](https://sanxofon.github.io/mvm/salas/#3-hormiguero-sideral-02)**
-- **[salas/mezcla_cam](https://sanxofon.github.io/mvm/salas/#4-mezcla_cam)**
+También se pueden ver [TODAS](https://sanxofon.github.io/mvm/salas/todas.html) las imágenes de trabajo de las salas 3D en el visualizador.
 
 ## Previsualizador de imágenes equirectangulares 3D
 
