@@ -26,7 +26,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "fov": 0.785398163
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -57,7 +57,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "fov": 0.785398163
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -88,7 +88,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "fov": 0.785398163
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -119,7 +119,7 @@ var APP_DATA = {
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
-        "fov": 1.5707963267948966
+        "fov": 0.785398163
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -128,7 +128,7 @@ var APP_DATA = {
   "name": "Museo Virtual de Matemáticas",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
