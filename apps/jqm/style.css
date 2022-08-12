@@ -1,0 +1,17 @@
+
+html,body {
+  margin: 0;
+  height: 100%;
+  background-color: #ddd!important;
+}
+#one,#two,#cabeza,#pies {
+  max-width: 960px;
+  margin: 0 auto;
+}
+.swiper-button-next, .swiper-button-prev {
+  color: var(--swiper-navigation-color,#fff);
+}
+.zdog-canvas {
+  background: transparent;
+  cursor: grab;
+}
