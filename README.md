@@ -4,13 +4,15 @@
 
 Este museo pretende albergar distintas web-apps dispuestas en distintas salas, con curaduría, interactividad y la posibilidad de profundizar más con artículos en "blocks de notas" interactivos y editables. Las salas del museo serán temáticas, por orientación etérea, etc. y contendrán 5 apps cada una. El formato de las salas será de navegación 360° en base a fondos equirectangulares dibujados a mano sobre guías de estructuras creadas como objetos 3D en ordenador.
 
-## Plantilla vacía para crear una Web App
+## Plantillas para crear Progressive Web Apps (PWA)
 
-**versión 0.5**
+| **Nombre** | **CSS**   | **JS** | **Descripcion**                                                    | **Tipo** |
+|------------|-----------|--------|--------------------------------------------------------------------|----------|
+| Vacío      | w3.css    | Core   | Incluye localstorage, worker, íconos, json, etc.                   | Template |
+| JQM        | JQ Mobile | JQuery | Incluye demostración de la librería swiper                         | Demo     |
+| Árboles    | w3.css    | d3.js  | Responsive. Propone un diseño a dos columnas en PC y una en Móvil. | App      |
 
-El template de Progressive We App (vacío) se puede descargar desde la carpeta:
-
-- **[app/](app/)**
+El código de los templates y apps se puedes descargar desde la carpeta **[apps/](https://github.com/sanxofon/mvm/tree/master/apps)**
 
 ## Salas 3D
 
