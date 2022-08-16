@@ -6,11 +6,11 @@ Este museo pretende albergar distintas web-apps dispuestas en distintas salas, c
 
 ## Plantillas para crear Progressive Web Apps (PWA)
 
-| **Nombre** | **CSS**   | **JS** | **Descripcion**                                                    | **Tipo** |
-|------------|-----------|--------|--------------------------------------------------------------------|----------|
-| Vacío      | w3.css    | Core   | Incluye localstorage, worker, íconos, json, etc.                   | Template |
-| JQM        | JQ Mobile | JQuery | Incluye demostración de la librería swiper                         | Demo     |
-| Árboles    | w3.css    | d3.js  | Responsive. Propone un diseño a dos columnas en PC y una en Móvil. | App      |
+| **Nombre**   | **CSS**   | **JS** | **Descripcion**                                                    | **Tipo** |
+|--------------|-----------|--------|--------------------------------------------------------------------|----------|
+| [App Vacía](https://lengua.la/mvm/apps/app)    | w3.css    | Core   | Incluye localstorage, worker, íconos, json, etc.                   | Template |
+| [JQM](https://lengua.la/mvm/apps/jqm)      | JQ Mobile | JQuery | Incluye demostración de la librería swiper                         | Demo     |
+| [Árboles](https://lengua.la/mvm/apps/arboles)  | w3.css    | d3.js  | Responsive. Propone un diseño a dos columnas en PC y una en Móvil. | App      |
 
 El código de los templates y apps se puedes descargar desde la carpeta **[apps/](https://github.com/sanxofon/mvm/tree/master/apps)**
 
