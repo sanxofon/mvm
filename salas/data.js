@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-cocina-lab-9000x4500",
-      "name": "cocina-lab-9000x4500",
+      "id": "0-cocina-lab",
+      "name": "cocina-lab",
       "levels": [
         {
           "tileSize": 256,
@@ -94,8 +94,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-hormiguero-sideral-02",
-      "name": "hormiguero-sideral-02",
+      "id": "3-barco",
+      "name": "Barco",
       "levels": [
         {
           "tileSize": 256,
@@ -125,7 +125,38 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-mezcla_cam",
+      "id": "4-tiempo",
+      "name": "tiempo",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-mezcla_cam",
       "name": "mezcla_cam",
       "levels": [
         {
@@ -156,8 +187,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-barco-3",
-      "name": "Barco-3",
+      "id": "6-hormiguero-sideral",
+      "name": "hormiguero-sideral-2",
       "levels": [
         {
           "tileSize": 256,
