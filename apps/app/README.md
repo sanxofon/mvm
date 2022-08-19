@@ -1,7 +1,7 @@
 # Plantilla vacía para crear una Web App
-**Versión 0.5** - *2022-06-03*
+**Versión 0.6** - *2022-08-12*
 
-[![General badge](https://img.shields.io/badge/VER_EN-GITHUB_PAGES-<COLOR>.svg)](https://sanxofon.github.io/mvm/app/)
+[![General badge](https://img.shields.io/badge/VER_EN-GITHUB_PAGES-<COLOR>.svg)](https://sanxofon.github.io/mvm/apps/app/&)
 
 ## Descripción general
 
@@ -16,6 +16,9 @@ Este template *Progressive Web App* (**PWA**)
 ![Screen Shot Mobile](img/screenshot2.png)
 
 ![Screen Shot Desktop](img/screenshot1.png)
+## Demo
+
+Se puede ver esta plantilla [en acción](http://lengua.la/mvm/apps/app).
 
 ## Estilos y CSS
 
@@ -28,7 +31,7 @@ El template usa por defecto una plantilla CSS muy simple pero útil creada por [
 Esta plantilla (no llega a ser una framework) utiliza una versión abierta de *FontAwesome* para darnos muchos íconos que podemos usar [como dice acá](https://www.w3schools.com/w3css/w3css_icons.asp).
 Las fonts de estos íconos están en la carpeta **[fonts/](fonts/)**.
 
-### app.css
+### style.css
 
 Los estilos de la app se pueden poner en este archivo.
 
@@ -38,16 +41,17 @@ Los estilos de la app se pueden poner en este archivo.
 
 Este archivo contiene los metadatos técnicamente indispensables para una Progressive Web App
 
-    $app_name = "Progressive Web App Template";    // El nombre de la App
-    $app_shortname = "PWAT2022";                   // Nombre corto de la app
+    $app_name = "Progressive Web App Template Vacío";    // El nombre de la App
+    $app_shortname = "app";                   // Nombre corto de la app
     $app_author = "Santiago C. Novaro";            // Autor de la app
     $app_authorTwitter = "@sanxofon";              // Usuario twitter del autor de la app 
-    $app_version = "v0.5";                         // Versión actual
+    $app_subject = "Matemáticas";  // Temas de la app (separados por coma) 
+    $app_version = "v0.6";                         // Versión actual
     $app_year = "2022";                            // Año de publicación de la app
     if(@$_GET['launcher']) $app_version = $app_version."b"; // No modificar esta línea
-    $app_description = "Máxima compatibilidad con los nuevos dispositivos inteligentes Android"; // Descripción general de la app.
-    $app_server = "//localhost";                   // Servidor donde la app está alojada (DNS ó IP)
-    $app_path = "/app/";                           // Ruta a la app desde la raíz del servidor (debe empezar y terminar en "/")
+    $app_description = "Compatibilidad con los nuevos dispositivos inteligentes"; // Descripción general de la app.
+    $app_server = "";                   // Servidor donde la app está alojada (DNS ó IP). Se puede usar cadena vacía "" para cualquiera.
+    $app_path = "/mvm/apps/".$app_shortname."/";  // Ruta absoluta a la app desde la raíz del servidor (debe empezar y terminar en "/")
 
 ### appHeader.php
 
