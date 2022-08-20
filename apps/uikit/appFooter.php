@@ -1,7 +1,8 @@
 
 <!-- Footer -->
-<footer class="">
-  <p><b><?php echo $app_name; ?></b> - &copy; (<?php echo $app_year; ?>) <a href="//twitter.com/<?php echo $app_authorTwitter; ?>" target="_blank"><?php echo $app_author; ?></a></p>
+<footer class="centrar uk-light">
+&copy; (<?php echo $app_year; ?>) 
+<a href="//twitter.com/<?php echo $app_authorTwitter; ?>" target="_blank"><?php echo $app_author; ?></a>
 </footer>
 
 <script type="text/javascript">

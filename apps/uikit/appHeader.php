@@ -44,13 +44,19 @@
   <!-- FAVICON -->
   <link rel="shortcut icon" href="<?php echo $app_server.$app_path; ?>img/favicon.png" type="image/png">
   <link rel="icon" href="<?php echo $app_server.$app_path; ?>img/favicon.png" type="image/png">
-  <!-- STYLES -->
+  <!-- CUSTOM STYLES -->
   <link rel="stylesheet" href="<?php echo $app_server.$app_path; ?>style.css">
+
+  <!-- UIKit -->
+  <link rel="stylesheet" href="uikit/uikit.min.css" />
+  <script src="uikit/uikit.min.js"></script>
+  <script src="uikit/uikit-icons.min.js"></script>
 
 </head>
 <body>
 
 <!-- Header -->
-<header class="">
-  <h1 class=""><b><?php echo $app_name; ?></b> <?php echo $app_version; ?></h1>
+<header class="uk-container uk-padding">
+  <h1 class="uk-heading-divider uk-text-center"><?php echo $app_name; ?></h1>
+  <!-- <h4 class="uk-heading-line"><?php echo $app_description; ?><span></span></h4> -->
 </header>
