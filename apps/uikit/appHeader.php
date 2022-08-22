@@ -57,6 +57,6 @@
 
 <!-- Header -->
 <header class="uk-container uk-padding">
-  <h1 class="uk-heading-divider uk-text-center"><?php echo $app_name; ?></h1>
+  <h1 class="uk-text-center"><?php echo $app_name; ?></h1>
   <!-- <h4 class="uk-heading-line"><?php echo $app_description; ?><span></span></h4> -->
 </header>

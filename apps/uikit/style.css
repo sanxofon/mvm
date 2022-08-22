@@ -1,8 +1,3 @@
-/* Note: W3 CSS Dependency */
-/* Links */
-a, a:focus, a:hover { color: #333; }
-/*a { text-decoration: none; }*/
-/* Base structure */
 html,
 body {
   margin: 0;

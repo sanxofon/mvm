@@ -6,10 +6,7 @@ include("appHeader.php");
 <nav class="uk-navbar-container uk-light" uk-sticky uk-navbar style="height: 40px;">
   <div class="uk-navbar-left">
     <div class="uk-navbar-item">
-      <div class="uk-inline">
-        <a class="uk-logo" href="#"><img style="height:100px;margin-top:-30px;" src="images/logo.png"></a>
-        <div uk-dropdown="mode: hover">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-      </div>
+      <a class="uk-logo" href="#offcanvas-usage" uk-toggle><img style="height:100px;margin-top:-30px;" src="images/logo.png"></a>
     </div>
   </div>
   <div class="uk-navbar-center">
@@ -18,12 +15,29 @@ include("appHeader.php");
     </ul>
   </div>
   <div class="uk-navbar-right">
-    <div class="uk-inline">
-      <span uk-icon="icon: grid" class="boton"></span>
-      <div uk-dropdown="mode: click">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-    </div>
+    <span uk-icon="icon: grid" class="boton"></span>
+    <ul uk-dropdown="animation: uk-animation-slide-right; animate-out: true;offset: 10;mode: click" class="uk-nav uk-dropdown-nav uk-nav-secondary uk-background-secondary">
+        <li class="uk-active"><a href="#">Active</a></li>
+        <li class="uk-nav-divider"></li>
+        <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: table"></span> Item</a></li>
+        <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: thumbnails"></span> Item</a></li>
+        <li class="uk-nav-divider"></li>
+        <li><a href="#"><span class="uk-margin-small-right" uk-icon="icon: trash"></span> Item</a></li>
+    </ul>
   </div>
 </nav>
+
+<div id="offcanvas-usage" uk-offcanvas>
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" uk-close></button>
+
+        <h3>Title</h3>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+    </div>
+</div>
 
 <br><br>
 
