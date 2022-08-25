@@ -6,13 +6,13 @@ Este museo pretende albergar distintas web-apps dispuestas en distintas salas, c
 
 ## Plantillas para crear Progressive Web Apps (PWA)
 
-| **Nombre**   | **CSS**   | **JS** | **Descripcion**                                                    | **Tipo** |
-|--------------|-----------|--------|--------------------------------------------------------------------|----------|
-| [App Vacía](https://lengua.la/mvm/apps/app)    | w3.css    | Core   | Simple CSS y sin framework JS. Incluye localstorage, worker, íconos, json, etc.                   | Template |
-| [JQM](https://lengua.la/mvm/apps/jqm)      | JQ Mobile | JQuery | Muestra la framework e incluye demostración de la librería swiper                         | Demo     |
-| [UIKit](https://lengua.la/mvm/apps/uikit)      | UiKit | UiKit | Incluye demostración de la algunos componentes de la framework                         | Demo     |
-| [Árboles](https://lengua.la/mvm/apps/arboles)  | w3.css    | d3.js  | Responsive. Propone un diseño a dos columnas en PC y una en Móvil. | App      |
-| [Cuadros](https://lengua.la/mvm/apps/cuadros)  | No    | sortablejs  | Resuelve la lógica de arrastre de los cuadros numéricos. | PoC      |
+| **Nombre**   | **Clave**   | **CSS**   | **JS** | **Descripcion**                                                    | **Tipo** |
+|--------------|-----------|-----------|--------|--------------------------------------------------------------------|----------|
+| [App Vacía](https://lengua.la/mvm/apps/app)    | [app](https://github.com/sanxofon/mvm-apps/tree/main/app)    | w3.css    | Core   | Simple CSS y sin framework JS. Incluye localstorage, worker, íconos, json, etc.                   | Template |
+| [JQM](https://lengua.la/mvm/apps/jqm)      | [jqm](https://github.com/sanxofon/mvm-apps/tree/main/jqm)    | JQ Mobile | JQuery | Muestra la framework e incluye demostración de la librería swiper                         | Demo     |
+| [UIKit](https://lengua.la/mvm/apps/uikit)      | [uikit](https://github.com/sanxofon/mvm-apps/tree/main/uikit)    | UiKit | UiKit | Incluye demostración de la algunos componentes de la framework                         | Demo     |
+| [Árboles](https://lengua.la/mvm/apps/arboles)  | [arboles](https://github.com/sanxofon/mvm-apps/tree/main/arboles)    | w3.css    | d3.js  | Responsive. Propone un diseño a dos columnas en PC y una en Móvil. | App      |
+| [Cuadros](https://lengua.la/mvm/apps/cuadros)  | [cuadros](https://github.com/sanxofon/mvm-apps/tree/main/cuadros)    | Core    | sortablejs  | Resuelve la lógica de arrastre de los cuadros numéricos. | PoC      |
 
 El código de los templates y apps se puedes descargar desde el repo **[mvm-apps/](https://github.com/sanxofon/mvm-apps)**
 
