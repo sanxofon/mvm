@@ -1,5 +1,6 @@
 var APP_DATA = {
   "scenes": [
+
     {
       "id": "0-cocina-lab",
       "name": "cocina-lab",
@@ -20,13 +21,17 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 4096,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.6203897150997744,
+        "pitch": -0.04551505801286382,
+        "fov": 0.35578592236702455
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -901,7 +906,7 @@ var APP_DATA = {
   "name": "Museo Virtual de Matemáticas",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }

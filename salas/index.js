@@ -388,14 +388,5 @@
 
   // Display the initial scene.
   switchScene(scenes[0]);
-  var sceneurl = window.location.hash.substr(1);
-  if(sceneurl){
-     var newscene = findSceneById(sceneurl);
-     switchScene(newscene);
-  }
-  else{
-	 // Display the initial scene.
-	 switchScene(scenes[0]);
-  }
 
 })();
